@@ -1,0 +1,15 @@
+C:\Users\51021784826\Desktop\Celular_Cel\bin\Debug\net7.0\Celular_Cel.exe
+C:\Users\51021784826\Desktop\Celular_Cel\bin\Debug\net7.0\Celular_Cel.deps.json
+C:\Users\51021784826\Desktop\Celular_Cel\bin\Debug\net7.0\Celular_Cel.runtimeconfig.json
+C:\Users\51021784826\Desktop\Celular_Cel\bin\Debug\net7.0\Celular_Cel.dll
+C:\Users\51021784826\Desktop\Celular_Cel\bin\Debug\net7.0\Celular_Cel.pdb
+C:\Users\51021784826\Desktop\Celular_Cel\obj\Debug\net7.0\Celular_Cel.csproj.AssemblyReference.cache
+C:\Users\51021784826\Desktop\Celular_Cel\obj\Debug\net7.0\Celular_Cel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51021784826\Desktop\Celular_Cel\obj\Debug\net7.0\Celular_Cel.AssemblyInfoInputs.cache
+C:\Users\51021784826\Desktop\Celular_Cel\obj\Debug\net7.0\Celular_Cel.AssemblyInfo.cs
+C:\Users\51021784826\Desktop\Celular_Cel\obj\Debug\net7.0\Celular_Cel.csproj.CoreCompileInputs.cache
+C:\Users\51021784826\Desktop\Celular_Cel\obj\Debug\net7.0\Celular_Cel.dll
+C:\Users\51021784826\Desktop\Celular_Cel\obj\Debug\net7.0\refint\Celular_Cel.dll
+C:\Users\51021784826\Desktop\Celular_Cel\obj\Debug\net7.0\Celular_Cel.pdb
+C:\Users\51021784826\Desktop\Celular_Cel\obj\Debug\net7.0\Celular_Cel.genruntimeconfig.cache
+C:\Users\51021784826\Desktop\Celular_Cel\obj\Debug\net7.0\ref\Celular_Cel.dll
